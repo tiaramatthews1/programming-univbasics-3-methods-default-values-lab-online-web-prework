@@ -7,5 +7,5 @@ end
 meal_choice("broccoli", "macaroni", "tofu")
 # > A plate of tofu with broccoli and macaroni.
   
-$stdout puts "What a nutritious meal!"
-puts "A plate of meat with broccoli and macaroni."
+$stdout.puts "What a nutritious meal!"
+$stdout.puts "A plate of meat with broccoli and macaroni."
