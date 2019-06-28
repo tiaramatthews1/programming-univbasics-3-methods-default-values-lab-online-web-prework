@@ -6,7 +6,6 @@ end
 # > A plate of meat with broccoli and macaroni.
 
 meal_choice("broccoli", "macaroni", "tofu")
-puts "A plate of #{protein} with #{veg1} and #{veg2}."
 # > A plate of tofu with broccoli and macaroni.
   
 # > What a nutritious meal!
