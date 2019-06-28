@@ -8,5 +8,6 @@ end
 meal_choice("broccoli", "macaroni", "tofu")
 # > A plate of tofu with broccoli and macaroni.
   
+puts "What a nutritious meal!"
 # > What a nutritious meal!
 # > A plate of meat with broccoli and macaroni.
