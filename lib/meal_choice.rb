@@ -9,4 +9,5 @@ meal_choice("broccoli", "macaroni", "tofu")
 # > A plate of tofu with broccoli and macaroni.
   
 # > What a nutritious meal! 
+
 # > A plate of meat with broccoli and macaroni.
